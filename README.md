@@ -17,11 +17,9 @@
 
   <img height="40" align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Js" height="60" width="60" src="  file:///C:/Users/La%20Sauce/Downloads/python-svgrepo-com.svg  ">
 
 
-
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+  <iframe src="https://giphy.com/embed/Wo0Yw7qwzgQak" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technoir-art-film-Wo0Yw7qwzgQak">via GIPHY</a></p>
 </div>
   
 </br>
@@ -33,6 +31,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lasauceblanche/lasauceblanche/blob/output/github-contribution-grid-snake.svg)
  
 </div>
