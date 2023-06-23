@@ -19,7 +19,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-  <iframe src="https://giphy.com/embed/Wo0Yw7qwzgQak" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technoir-art-film-Wo0Yw7qwzgQak">via GIPHY</a></p>
+
+  <img align="right" height="180em" alt="Erica-yoda" src="https://media1.giphy.com/media/Wo0Yw7qwzgQak/giphy.gif?cid=ecf05e47iupbwp969x4oo8dof7trloaz8maagc7xoqd6u73r&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
   
 </br>
