@@ -40,7 +40,6 @@ animation:
     
     ">
 
-</div>
 ## Hi, I am La Sauce ! 
 </div>
 
