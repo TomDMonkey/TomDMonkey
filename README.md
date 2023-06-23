@@ -1,4 +1,5 @@
-## Hi, I am La Sauce ! 
+## Hi, I am La Sauce ! <br>
+## I am an apprentice front-end developer !
 </br>
 
  <div>
