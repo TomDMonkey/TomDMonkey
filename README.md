@@ -1,48 +1,5 @@
 
 
-<div style="  width: 100%;
-overflow: hidden;
-/* Ensures the content is not revealed until the animation */
-border-right: .15em solid var(--second-color);
-/* The typwriter cursor */
-white-space: nowrap;
-/* Keeps the content on a single line */
-margin: 0 auto;
-/* Gives that scrolling effect as the typing happens */
-letter-spacing: .15em;
-/* Adjust as needed */
-animation:
-    typing 3.5s steps(40, end),
-    blink-caret 1.25s step-end infinite;
-    
-    @keyframes typing {
-        from {
-            width: 0
-        }
-
-        to {
-            width: 100%
-        }
-    }
-
-    /* The typewriter cursor effect */
-    @keyframes blink-caret {
-
-        from,
-        to {
-            border-color: transparent
-        }
-
-        50% {
-            border-color: var(--second-color);
-        }
-    }
-    
-    ">
-
-## Hi, I am La Sauce ! 
-</div>
-
 ## Hi, I am La Sauce ! 
 I am an apprentice front-end developer !
 </br>
