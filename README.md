@@ -7,16 +7,15 @@ I am an apprentice front-end developer !
  <div>
   <a href="https://github.com/lasauceblanche">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasauceblanche&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lasauceblanche&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+
 </div>
  
  ## Skills
 <div style="display: inline_block"><br>
 
-
         <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python,cpp,bash,github,js,html,css,arduino,vscode" />
-        </a>s
+        </a>
 
   <p align="center">
     <a href="https://abhigyantrips.dev/">
