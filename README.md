@@ -13,7 +13,7 @@ I am an apprentice front-end developer !
 <div style="display: inline_block"><br>
 
     
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,bash,github,js,html,css,arduino,php,mysql,raspberrypi,vscode)](https://skillicons.dev)
 
     <p align="center">
         <a href="https://abhigyantrips.dev/">
