@@ -14,18 +14,14 @@ I am an apprentice front-end developer !
 <div style="display: inline_block"><br>
 
 
-
-    <p align="center">
         <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python,cpp,bash,github,js,html,css,arduino,vscode" />
-        </a>
-    </p>
-   
+        </a>s
 
   <p align="center">
     <a href="https://abhigyantrips.dev/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=VinayakBector2002&show_icons=true&theme=dracula&hide_border=true" />
-      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=VinayakBector2002&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lasauceblanche&show_icons=true&theme=dracula&hide_border=true" />
+      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lasauceblanche&theme=dracula&hide_border=true" />
       
     </a>
   </p>
