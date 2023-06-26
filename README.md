@@ -12,10 +12,9 @@ I am an apprentice front-end developer !
 ## Skills
 <div style="display: inline_block"><br>
 
-    
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,bash,github,js,html,css,arduino,php,mysql,raspberrypi,vscode)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,cpp,bash,github,js,html,css,arduino,php,mysql,raspberrypi,vscode)](https://skillicons.dev)
 
-    <p align="center">
+ <p align="center">
         <a href="https://abhigyantrips.dev/">
             <img width="49.5%"
                 src="https://github-readme-stats.vercel.app/api?username=lasauceblanche&show_icons=true&theme=dracula&hide_border=true" />
@@ -27,7 +26,7 @@ I am an apprentice front-end developer !
 
 
 
-    <img align="right" height="180em" alt="Erica-yoda"
+  <img align="right" height="180em" alt="Erica-yoda"
         src="https://media1.giphy.com/media/Wo0Yw7qwzgQak/giphy.gif?cid=ecf05e47iupbwp969x4oo8dof7trloaz8maagc7xoqd6u73r&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
@@ -45,7 +44,7 @@ I am an apprentice front-end developer !
     </br>
 
 
-    ![Snake animation](https://github.com/lasauceblanche/lasauceblanche/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lasauceblanche/lasauceblanche/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
