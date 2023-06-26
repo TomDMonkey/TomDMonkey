@@ -13,12 +13,22 @@ I am an apprentice front-end developer !
  ## Skills
 <div style="display: inline_block"><br>
 
-  <img height="40" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img height="40" align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+    <p align="center">
+        <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,cpp,bash,github,js,html,css,arduino,vscode" />
+        </a>
+    </p>
+   
+
+  <p align="center">
+    <a href="https://abhigyantrips.dev/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=VinayakBector2002&show_icons=true&theme=dracula&hide_border=true" />
+      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=VinayakBector2002&theme=dracula&hide_border=true" />
+      
+    </a>
+  </p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
