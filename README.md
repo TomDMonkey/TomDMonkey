@@ -20,9 +20,8 @@ I am an apprentice front-end developer !
                 src="https://github-readme-stats.vercel.app/api?username=lasauceblanche&show_icons=true&theme=dracula&hide_border=true" />
             <img width="49.5%"
                 src="https://github-readme-streak-stats.herokuapp.com/?user=lasauceblanche&theme=dracula&hide_border=true" />
-
-        </a>
-    </p>
+  </a>
+ </p>
 
 
 
