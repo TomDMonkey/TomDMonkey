@@ -5,7 +5,7 @@
 
   <div>
         <a href="https://github.com/lasauceblanche">
-            <div align="center" style="display: inline_block;" >
+            <div align="center" style="display:flex;" >
                 <div style="position: relative; cursor: pointer;">
                     <div
                         style="width: 300px; height: 200px; transition: 0.5s; position: relative; background: #333; display: flex; justify-content: center; align-items: center; z-index: 1; ">
