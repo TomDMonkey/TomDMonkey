@@ -9,6 +9,9 @@ I am an apprentice front-end developer !
 
 </div>
 
+ <img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/design_128.png?raw=true">
+ <img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/code_128.png?raw=true">
+
 ## Skills
 <div style="display: inline_block"><br>
 
