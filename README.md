@@ -7,10 +7,7 @@ I am an apprentice front-end developer !
         <img align="center" height="170"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasauceblanche&layout=compact&langs_count=16&theme=dracula" />
 
-</div>
-
- <img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/design_128.png?raw=true">
- <img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/code_128.png?raw=true">
+</div> <img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/design_128.png?raw=true"> <img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/code_128.png?raw=true">
 
 ## Skills
 <div style="display: inline_block"><br>
