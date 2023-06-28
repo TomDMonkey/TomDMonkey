@@ -5,35 +5,12 @@
 
   <div>
         <a href="https://github.com/lasauceblanche">
-            <div align="center" style="display:flex; align-items:center;" >
-                <div style="position: relative; cursor: pointer;">
-                    <div
-                        style="width: 300px; height: 200px; transition: 0.5s; position: relative; background: #333; display: flex; justify-content: center; align-items: center; z-index: 1; ">
-                        <div style="opacity: 0.2; transition: 0.5s;">
-                            <img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/design_128.png?raw=true"
-                                style="max-width: 100px;">
-                            <h3 style="margin: 10px 0 0; padding: 0; color: #fff; text-align: center; font-size: 1.5em;">
-                                Design
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-                <img align="center" height="170"
+                  <img align="center" height="170"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasauceblanche&layout=compact&langs_count=16&theme=dracula" />
                             <div style="position: relative; cursor: pointer;">
-                    <div
-                        style="width: 300px; height: 200px; transition: 0.5s; position: relative; background: #333; display: flex; justify-content: center; align-items: center; z-index: 1; a">
-                        <div style="opacity: 0.2; transition: 0.5s;">
-                            <img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/code_128.png?raw=true"
-                                style="max-width: 100px;">
-                            <h3 style="margin: 10px 0 0; padding: 0; color: #fff; text-align: center; font-size: 1.5em;">
-                                Code
-                            </h3>
-                        </div>
-                    </div>
-    </div>
             </div>
-    </div>
+          
+  </div>
     ## Skills
     <div style="display: inline_block"><br>
         [![My
