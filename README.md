@@ -2,7 +2,7 @@ Hi, I am La Sauce ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 I am an apprentice front-end developer !
 </br>
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/lasauceblanche">
 
 <img style="max-width:150px" align="center" src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/design_128.png?raw=true">
