@@ -1,12 +1,11 @@
-  Hi, I am La Sauce !  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
+  Hi, I am La Sauce ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
     <br>
     I am an apprentice front-end developer !
     </br>
 
   <div>
-    
-<a href="https://github.com/lasauceblanche">
-   <div align="center" style="display: flex;" >
+        <a href="https://github.com/lasauceblanche">
+            <div align="center" style="display: flex;" >
                 <div style="position: relative; cursor: pointer;">
                     <div
                         style="width: 300px; height: 200px; transition: 0.5s; position: relative; background: #333; display: flex; justify-content: center; align-items: center; z-index: 1; ">
@@ -19,11 +18,9 @@
                         </div>
                     </div>
                 </div>
-
-
-   <img align="center" height="170"
+                <img align="center" height="170"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasauceblanche&layout=compact&langs_count=16&theme=dracula" />
-                <div style="position: relative; cursor: pointer;">
+                            <div style="position: relative; cursor: pointer;">
                     <div
                         style="width: 300px; height: 200px; transition: 0.5s; position: relative; background: #333; display: flex; justify-content: center; align-items: center; z-index: 1; a">
                         <div style="opacity: 0.2; transition: 0.5s;">
@@ -34,16 +31,14 @@
                             </h3>
                         </div>
                     </div>
-   </div>
+    </div>
             </div>
     </div>
-
-
-
-   ## Skills
-  <div style="display: inline_block"><br>
-    [![My    Skills](https://skillicons.dev/icons?i=python,cpp,bash,github,js,html,css,arduino,php,mysql,raspberrypi,vscode)](https://skillicons.dev)
-     <p align="center">
+    ## Skills
+    <div style="display: inline_block"><br>
+        [![My
+        Skills](https://skillicons.dev/icons?i=python,cpp,bash,github,js,html,css,arduino,php,mysql,raspberrypi,vscode)](https://skillicons.dev)
+        <p align="center">
             <img width="49.5%"
                 src="https://github-readme-stats.vercel.app/api?username=lasauceblanche&show_icons=true&theme=dracula&hide_border=true" />
             <img width="49.5%"
@@ -63,7 +58,5 @@
                 target="_blank"></a>
         </br>
         </br>
-
-   ![Snake animation](https://github.com/lasauceblanche/lasauceblanche/blob/output/github-contribution-grid-snake.svg)
-
-   </div>
+        ![Snake animation](https://github.com/lasauceblanche/lasauceblanche/blob/output/github-contribution-grid-snake.svg)
+    </div>
