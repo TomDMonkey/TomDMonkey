@@ -11,7 +11,8 @@
             </div>
           
   </div>
-    ## Skills
+  <br>
+     Skills
     <div style="display: inline_block"><br>
         [![My
         Skills](https://skillicons.dev/icons?i=python,cpp,bash,github,js,html,css,arduino,php,mysql,raspberrypi,vscode)](https://skillicons.dev)
@@ -25,7 +26,7 @@
             src="https://media1.giphy.com/media/Wo0Yw7qwzgQak/giphy.gif?cid=ecf05e47iupbwp969x4oo8dof7trloaz8maagc7xoqd6u73r&ep=v1_gifs_search&rid=giphy.gif&ct=g">
     </div>
     </br>
-    ## Contact
+     Contact
     <div>
         <a href="https://www.instagram.com/_sweety_riv_/" target="_blank"><img
                 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
