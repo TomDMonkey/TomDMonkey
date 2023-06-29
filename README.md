@@ -13,7 +13,13 @@
   </div>
   <br>
      Skills
-    <div style="display: inline_block"><br>
+
+  ```python
+print(f' Do you {even} code bro ??') 
+  ```
+
+
+  <div style="display: inline_block"><br>
     
       
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,bash,github,js,html,css,arduino,php,mysql,raspberrypi,vscode)](https://skillicons.dev)
