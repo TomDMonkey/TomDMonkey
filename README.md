@@ -1,6 +1,6 @@
-  Hi, I am La Sauce ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
     <br>
-    I am an apprentice front-end developer !
+  
     </br>
 
   <div>
