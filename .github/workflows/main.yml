@@ -1,21 +1,26 @@
-name: Generate Datas
+name: Generate Snake Animation
+
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # Exécuter toutes les 12 heures
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
+
 jobs:
   build:
-    name: Jobs to update datas
+    name: Update Snake Animation
     runs-on: ubuntu-latest
+
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-  
+      # Action pour générer le SVG de l'animation Snake
+      - name: Generate Snake SVG
+        uses: Platane/snk@v2
         with:
-          github_user_name: TomDMonkey
+          github_user_name: TomDMonkey  # Remplace par ton nom d'utilisateur GitHub
           svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+
+      # Publier le fichier SVG sur la branche output
+      - name: Deploy Snake to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
