@@ -43,5 +43,5 @@
 <br>
 <br>
 
-<div> <a href="https://www.instagram.com/_sweety_riv_/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto: tom.rivillon@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div> 
+<div> <a href="https://www.linkedin.com/in/tom-rivillon-74687528b/" target="_blank"> <img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto: tom.rivillon@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div> 
 
