@@ -20,7 +20,7 @@ print(f' Do you {even} code bro ??')
   <div style="display: inline_block"><br>
     
       
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,bash,github,js,html,css,arduino,codepen,bots,linux,php,mysql,raspberrypi,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,bash,js,html,css,arduino,codepen,bots,linux,php,mysql,raspberrypi,vscode)](https://skillicons.dev)
         <p align="center">
             <img width="49.5%"
                 src="https://github-readme-stats.vercel.app/api?username=TomDMonkey&show_icons=true&theme=dracula&hide_border=true" />
