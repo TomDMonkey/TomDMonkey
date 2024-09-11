@@ -16,8 +16,8 @@ print(f'Do you {even} code bro ??')
 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=TomDMonkey&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-    <img style="width: 45%;" src="https://github-readme-streak-stats.herokuapp.com/?user=TomDMonkey&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <img style="width: 70%;" src="https://github-readme-stats.vercel.app/api?username=TomDMonkey&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+    <img style="width: 70%;" src="https://github-readme-streak-stats.herokuapp.com/?user=TomDMonkey&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
