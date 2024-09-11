@@ -15,10 +15,11 @@ print(f'Do you {even} code bro ??')
 <div style="display: inline_block"><br> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,js,html,css,arduino,codepen,bots,linux,php,mysql,raspberrypi,vscode" /> </a> </div>
 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=TomDMonkey&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=TomDMonkey&theme=dracula&hide_border=true" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=TomDMonkey&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+    <img style="width: 45%;" src="https://github-readme-streak-stats.herokuapp.com/?user=TomDMonkey&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 
 <br>
